@@ -1,0 +1,28 @@
+{
+	"cellSize": 300,
+	"startLevel":1,
+	"minLevel": 1,
+	"maxLevel": 3,
+	"zoom": [
+	{
+			"percent": "50%",
+			"level": 1,
+			"cols": 3,
+			"rows": 4,
+			"image": ["z1_1.jpg", "z1_2.jpg", "z1_3.jpg", "z1_4.jpg", "z1_5.jpg", "z1_6.jpg", "z1_7.jpg", "z1_8.jpg", "z1_9.jpg", "z1_10.jpg", "z1_11.jpg", "z1_12.jpg"]
+		},
+		{
+			"percent": "75%",
+			"level": 2,
+			"cols": 4,
+			"rows": 5,
+			"image": ["z2_1.jpg", "z2_2.jpg", "z2_3.jpg", "z2_4.jpg", "z2_5.jpg", "z2_6.jpg", "z2_7.jpg", "z2_8.jpg", "z2_9.jpg", "z2_10.jpg", "z2_11.jpg", "z2_12.jpg", "z2_13.jpg", "z2_14.jpg", "z2_15.jpg", "z2_16.jpg", "z2_17.jpg", "z2_18.jpg", "z2_19.jpg", "z2_20.jpg"]
+		}, {
+			"percent": "100%",
+			"level": 3,
+			"cols": 5,
+			"rows": 6,
+			"image": ["z3_1.jpg", "z3_2.jpg", "z3_3.jpg", "z3_4.jpg", "z3_5.jpg", "z3_6.jpg", "z3_7.jpg", "z3_8.jpg", "z3_9.jpg", "z3_10.jpg", "z3_11.jpg", "z3_12.jpg", "z3_13.jpg", "z3_14.jpg", "z3_15.jpg", "z3_16.jpg", "z3_17.jpg", "z3_18.jpg", "z3_19.jpg", "z3_20.jpg", "z3_21.jpg", "z3_22.jpg", "z3_23.jpg", "z3_24.jpg", "z3_25.jpg", "z3_26.jpg", "z3_27.jpg", "z3_28.jpg", "z3_29.jpg", "z3_30.jpg", "z3_31.jpg"]
+		}
+	]
+}
